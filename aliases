@@ -1,5 +1,4 @@
 alias note="flatpak run md.obsidian.Obsidian"
-alias scessh="openvpn3 session-start --config ~/Downloads/mau.ovpn; ssh pee@192.168.69.121"
 alias undo="git reset --soft HEAD~"
-alias pullmain="git pull origin main"
+alias pm="git pull origin main"
 alias learngo="~/go/bin/tour"
